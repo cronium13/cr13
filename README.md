@@ -15,4 +15,3 @@ hi my name is cronium n i will kill ur family(joke)
 <body>
   <script src="js/scripts.js"></script>
 </body>
-</html>
