@@ -11,7 +11,7 @@ hi my name is cronium n i will kill ur family(joke)
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="styles.css">
 
 </head>
 hi my name is cronium n i will kill ur family(joke)
